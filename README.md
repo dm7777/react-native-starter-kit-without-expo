@@ -1,11 +1,11 @@
 <img src="/docs/rnsk-logo.jpg" alt="React Native Starter Kit" width="400" />
 
-[![GitHub tag](https://img.shields.io/github/tag/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/tags)
-[![GitHub contributors](https://img.shields.io/github/contributors/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/contributors)
+[![GitHub tag](https://img.shields.io/github/tag/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/saahmadnejad/react-native-starter-kit-without-expo/tags)
+[![GitHub contributors](https://img.shields.io/github/contributors/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/saahmadnejad/react-native-starter-kit-without-expo/contributors)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/mcnamee/react-native-starter-kit/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/issues-closed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/issues-pr)
+[![GitHub issues](https://img.shields.io/github/issues/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/saahmadnejad/react-native-starter-kit-without-expo/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/saahmadnejad/react-native-starter-kit-without-expo/issues-closed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/saahmadnejad/react-native-starter-kit-without-expo/issues-pr)
 
 ---
 
@@ -50,7 +50,6 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 - [Understanding the file structure](/docs/file-structure.md)
 - [FAQs & Opinions](/docs/faqs.md)
 - [Testing, Deploying & Publishing](/docs/publishing.md)
-- [Tests & testing](/docs/testing.md) (coming soon...)
 - [Contributing to this project](/docs/contributing.md)
 
 ---
@@ -97,15 +96,5 @@ Via webpack, starts a localhost server on port 3001 [http://localhost:3001](http
 - Install [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) into Chrome to see the state of Redux
 
 ---
-
-## 👊 Further Help?
-
-This repo is a great place to start, but if you'd prefer to sit back and have your new project built for you, [get in touch with me directly](https://mcnam.ee) and I can organise a quote.
-
----
-
-## 💡 Inspiration
-
-- [This blog post](http://jkaufman.io/react-web-native-codesharing/) helped put the ideas into action
 
 _If there's any other ideas presented in this repo, that you think worth mentioning - feel free open a pull request :)_
