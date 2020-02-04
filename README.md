@@ -57,19 +57,13 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 
 ## 🚀 Getting Started
 
-#### 0. Prerequisites
-Make sure you have Expo CLI installed
-```bash
-npm install -g expo-cli
-```
-
 #### 1. Clone and Install
 
 _*It's recommended that you install [React Native Debugger](https://github.com/jhen0409/react-native-debugger/releases) and open before `yarn start`._
 
 ```bash
 # Clone the repo
-git clone https://github.com/mcnamee/react-native-starter-kit.git
+git clone https://github.com/saahmadnejad/react-native-starter-kit-without-expo.git
 
 # Install dependencies
 yarn install
