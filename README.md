@@ -9,14 +9,11 @@
 
 ---
 
-[![CryptoTip](https://img.shields.io/badge/Donate%20with-CryptoTip-blue.svg?style=flat&colorB=007bff)](https://cryptotip.it/p/mcnamee)  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7CE3LJYX859E)
-
 # React (Web + Native) Starter Kit
 
 #### For when you're looking to build 'the next big thing' for both web and native mobile.
 
 <a href="http://react-boilerplate.mcnam.ee/"><img src="/docs/web-demo.jpg" alt="Web Demo" height="50" /></a>
-<a href="https://expo.io/@mcnamee/react-native-starter-kit"><img src="/docs/expo-demo.jpg" alt="React Native Expo Demo" height="50" /></a>
 
 ---
 
@@ -38,8 +35,6 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 - __UI Toolkit/s__
     - [Native Base](https://nativebase.io/) for native mobile
     - [Bootstrap](https://getbootstrap.com/) for web
-- __Simpler mobile app development__ through
-    - [Expo](https://expo.io/)
 - __User authentication__ example through
     - [Firebase](https://firebase.google.com/)
 - __API/Data example__
@@ -87,10 +82,12 @@ yarn install
 yarn start
 ```
 
-Instructions are shown in the terminal. You can select to open it in:
+And then in another terminal:
+```bash
+# Start the React Native packager
+yarn android
+```
 
-- An emulator (either iOS or Android)
-- Your mobile device with the [Expo app](https://expo.io/). It will reload if you save edits to your files and you will see build errors and logs in the terminal.
 
 #### 2.2. Run the _Web_ App
 
