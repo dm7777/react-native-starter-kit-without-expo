@@ -1,4 +1,4 @@
-<img src="/docs/rnsk-logo.jpg" alt="React Native Starter Kit" width="400" />
+<img src="/docs/rnskwx-logo.jpg" alt="React Native Starter Kit" width="400" />
 
 [![GitHub tag](https://img.shields.io/github/tag/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/saahmadnejad/react-native-starter-kit-without-expo/tags)
 [![GitHub contributors](https://img.shields.io/github/contributors/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/saahmadnejad/react-native-starter-kit-without-expo/contributors)
