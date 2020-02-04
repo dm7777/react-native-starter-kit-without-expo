@@ -9,7 +9,7 @@
 
 ---
 
-# React (Web + Native) Starter Kit
+# React (Web + Native) Starter Kit Without Expo
 
 #### For when you're looking to build 'the next big thing' for both web and native mobile.
 
