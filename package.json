@@ -24,7 +24,11 @@
     "web-bundle": "react-scripts build",
     "predeploy": "npm run web-bundle",
     "deploy": "gh-pages -d build",
-    "debug": "open 'rndebugger://set-debugger-loc?host=localhost&port=19001'"
+    "debug": "open 'rndebugger://set-debugger-loc?host=localhost&port=19001'",
+    "start-craco": "craco start",
+    "build-craco": "craco build",
+    "test-craco": "craco test",
+    "eject-craco": "craco eject"
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.7.1",
@@ -67,6 +71,7 @@
     "gh-pages": "^2.2.0",
     "node-sass": "^4.13.1",
     "react-scripts": "2.1.8",
+    "resolve-url-loader": "^3.1.1",
     "semantic-ui-less": "^2.4.1"
   }
 }

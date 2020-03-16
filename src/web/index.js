@@ -14,6 +14,7 @@ import Loading from './components/UI/Loading';
 
 // Load css
 import './styles/style.scss';
+import 'semantic-ui-less/semantic.less'
 
 const { persistor, store, dispatch } = configureStore();
 // persistor.purge(); // Debug to clear persist
