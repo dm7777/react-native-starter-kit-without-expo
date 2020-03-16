@@ -20,3 +20,6 @@ local.properties
 
 # Build
 build/
+
+#Yarn
+yarn-error.log
